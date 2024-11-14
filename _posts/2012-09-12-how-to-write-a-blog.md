@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title:  "Welcome to Jekyll!"
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
