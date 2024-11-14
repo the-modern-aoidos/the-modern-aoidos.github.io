@@ -3,7 +3,7 @@ remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: The Modern Aoidos Blog
-description: The Modern Aoidos is a digital melting pot where the ancient tradition of storytelling rubs shoulders with current narratives. An Aoidos was a fabled bard whose music and poetry told stories that preserved myths long after their subjects have disappeared from human memory. While the mythology has dissipated today, its spirit lives on in tales of business innovation, technological progress and life itself.
+description: An Aoidos was a fabled bard whose music and poetry told stories that preserved myths long after their subjects have disappeared from human memory.
 domain: the-modern-aoidos.github.io       
 url: https://the-modern-aoidos.github.io  
 # google_analytics: [Your Google Analytics tracking ID]
