@@ -1,6 +1,6 @@
 # theme: # timemachine # tactile # slate # modernist # minima # midnight # merlot # leapday # hacker # dinky # cayman # architect # jekyll-theme-minimal
-remote_theme: pages-themes/leap-day@v0.2.0
-# pages-themes/architect@v0.2.0
+# remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 title: The Modern Aoidos Blog
 description: An Aoidos was a fabled bard whose music and poetry told stories that preserved myths long after their subjects have disappeared from human memory.
 domain: the-modern-aoidos.github.io       
